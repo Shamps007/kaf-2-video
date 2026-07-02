@@ -22,8 +22,7 @@ export default function Footer() {
           <div>
             <h3 className="font-display text-sm font-bold text-white mb-8 uppercase tracking-widest text-[#2563eb]">Atendimento</h3>
             <ul className="space-y-4 text-white/70 text-base font-medium">
-              <li><span className="text-white font-bold">Seg - Sexta:</span> 08:00 - 18:00</li>
-              <li><span className="text-white/40 font-bold">Sábado e Domingo:</span> Fechado</li>
+              <li><span className="text-white font-bold">Segunda - Sexta:</span> 08:00 - 18:00</li>
             </ul>
           </div>
 
